@@ -1,0 +1,74 @@
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Writing database to /Users/caikantao/Works/随记/CktBlog/db.json","time":"2019-07-17T04:04:52.902Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Hexo version: \u001b[35m3.9.0\u001b[39m","time":"2019-07-17T04:04:52.918Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Working directory: \u001b[35m~/Works/随记/CktBlog/\u001b[39m","time":"2019-07-17T04:04:52.919Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Config loaded: \u001b[35m~/Works/随记/CktBlog/_config.yml\u001b[39m","time":"2019-07-17T04:04:53.011Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2019-07-17T04:04:53.028Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2019-07-17T04:04:53.029Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2019-07-17T04:04:53.030Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2019-07-17T04:04:53.032Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2019-07-17T04:04:53.035Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2019-07-17T04:04:53.035Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2019-07-17T04:04:53.088Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2019-07-17T04:04:53.093Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Loading database.","time":"2019-07-17T04:04:53.099Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":30,"msg":"Start processing","time":"2019-07-17T04:04:53.108Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Processed: \u001b[35m_posts/ckt-tilte.md\u001b[39m","time":"2019-07-17T04:04:53.536Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:04:53.539Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Processed: \u001b[35m_posts/My-New-Post.md\u001b[39m","time":"2019-07-17T04:04:53.541Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Rendering post: \u001b[35m/Users/caikantao/Works/随记/CktBlog/source/_posts/ckt-tilte.md\u001b[39m","time":"2019-07-17T04:04:53.614Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Rendering post: \u001b[35m/Users/caikantao/Works/随记/CktBlog/source/_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:04:53.614Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Rendering post: \u001b[35m/Users/caikantao/Works/随记/CktBlog/source/_posts/My-New-Post.md\u001b[39m","time":"2019-07-17T04:04:53.615Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-07-17T04:04:54.268Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000\u001b[24m . Press Ctrl+C to stop.","time":"2019-07-17T04:04:54.272Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Database saved","time":"2019-07-17T04:04:54.277Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2019-07-17T04:05:14.028Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2019-07-17T04:05:16.736Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2019-07-17T04:05:17.421Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":30,"msg":"Farewell","time":"2019-07-17T04:05:40.750Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7323,"level":20,"msg":"Database saved","time":"2019-07-17T04:05:40.765Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Writing database to /Users/caikantao/Works/随记/CktBlog/db.json","time":"2019-07-17T04:06:06.636Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Hexo version: \u001b[35m3.9.0\u001b[39m","time":"2019-07-17T04:06:06.652Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Working directory: \u001b[35m~/Works/随记/CktBlog/\u001b[39m","time":"2019-07-17T04:06:06.652Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Config loaded: \u001b[35m~/Works/随记/CktBlog/_config.yml\u001b[39m","time":"2019-07-17T04:06:06.741Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2019-07-17T04:06:06.759Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2019-07-17T04:06:06.763Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2019-07-17T04:06:06.765Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2019-07-17T04:06:06.766Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2019-07-17T04:06:06.770Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2019-07-17T04:06:06.771Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2019-07-17T04:06:06.776Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2019-07-17T04:06:06.826Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Loading database.","time":"2019-07-17T04:06:06.834Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":30,"msg":"Start processing","time":"2019-07-17T04:06:06.854Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Processed: \u001b[35m_posts/My-New-Post.md\u001b[39m","time":"2019-07-17T04:06:07.067Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Processed: \u001b[35m_posts/ckt-tilte.md\u001b[39m","time":"2019-07-17T04:06:07.067Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:06:07.067Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-07-17T04:06:07.084Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-07-17T04:06:07.084Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-07-17T04:06:07.084Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-07-17T04:06:07.084Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-07-17T04:06:07.085Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-07-17T04:06:07.085Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-07-17T04:06:07.085Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000\u001b[24m . Press Ctrl+C to stop.","time":"2019-07-17T04:06:07.089Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Database saved","time":"2019-07-17T04:06:07.093Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2019-07-17T04:06:12.155Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:06:19.537Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:06:19.631Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Rendering post: \u001b[35m/Users/caikantao/Works/随记/CktBlog/source/_posts/hello-world.md\u001b[39m","time":"2019-07-17T04:06:19.816Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2019-07-17T04:06:20.419Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2019-07-17T04:06:20.420Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2019-07-17T04:06:26.972Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":30,"msg":"Catch you later","time":"2019-07-17T06:41:36.118Z","v":0}
+{"name":"hexo","hostname":"CKT-Mac-mini","pid":7400,"level":20,"msg":"Database saved","time":"2019-07-17T06:41:36.156Z","v":0}
