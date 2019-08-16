@@ -5,10 +5,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ## Quick Start 你们
 
-### Create a new post https://github.com/blinkfox/blinkfox.github.io.git https://github.com/ckt0708/Ckt0708.github.io.git
+### Create a new post https://github.com/ckt0708/Ckt0708.github.io.git
 
 ``` bash
-hexo --save 33322222冷风机凯乐----------201908151622
+hexo --save 33322222冷风机凯乐----------201908151622 201908161440
 ```
 
 ``` bash
