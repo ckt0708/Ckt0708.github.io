@@ -5,16 +5,14 @@
 <head><meta name="generator" content="Hexo 3.9.0">
     <meta charset="utf-8">
     <meta name="keywords" content="局部滚动和修改滚动条样式, 龍の蝶, ckt0708">
-    <meta name="description" content="
-
-局部滚动和修改滚动条样式部分区域滚动代码：
+    <meta name="description" content="局部滚动和修改滚动条样式部分区域滚动代码：
 //滚动条
 #box{//  不滚动部分
     overflow: hidden;
     height: 100%;
 }
 .scroll-area{//滚动部分
-    -webkit-o">
+    -webkit-ove">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <meta name="renderer" content="webkit|ie-stand|ie-comp">
@@ -269,7 +267,7 @@
 
 
 
-<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/featureimages/21.jpg')">
+<div class="bg-cover pd-header post-cover" style="background-image: url('/medias/logo.png')">
     <div class="container">
         <div class="row">
             <div class="col s12 m12 l12">
@@ -285,111 +283,43 @@
 
 
 
-<main class="post-container content">
+<main class="container content">
 
     
-    <link rel="stylesheet" href="/libs/tocbot/tocbot.css">
-<style>
-    #articleContent h1::before,
-    #articleContent h2::before,
-    #articleContent h3::before,
-    #articleContent h4::before,
-    #articleContent h5::before,
-    #articleContent h6::before {
-        display: block;
-        content: " ";
-        height: 100px;
-        margin-top: -100px;
-        visibility: hidden;
-    }
-
-    #articleContent :focus {
-        outline: none;
-    }
-
-    .toc-fixed {
-        position: fixed;
-        top: 64px;
-    }
-
-    .toc-widget {
-        padding-left: 20px;
-    }
-
-    .toc-widget .toc-title {
-        margin: 35px 0 15px 0;
-        padding-left: 17px;
-        font-size: 1.5rem;
-        font-weight: bold;
-        line-height: 1.5rem;
-    }
-
-    .toc-widget ol {
-        padding: 0;
-        list-style: none;
-    }
-
-    #toc-content ol {
-        padding-left: 10px;
-    }
-
-    #toc-content ol li {
-        padding-left: 10px;
-    }
-
-    #toc-content .toc-link:hover {
-        color: #42b983;
-        font-weight: 700;
-        text-decoration: underline;
-    }
-
-    #toc-content .toc-link::before {
-        background-color: transparent;
-        max-height: 25px;
-    }
-
-    #toc-content .is-active-link {
-        color: #42b983;
-    }
-
-    #toc-content .is-active-link::before {
-        background-color: #42b983;
-    }
-
-    #floating-toc-btn {
-        position: fixed;
-        right: 50px;
-        bottom: 200px;
-        padding-top: 15px;
-        margin-bottom: 0;
-        z-index: 998;
-    }
-
-    #floating-toc-btn .btn-floating {
-        width: 48px;
-        height: 48px;
-    }
-
-    #floating-toc-btn .btn-floating i {
-        line-height: 48px;
-        font-size: 1.4rem;
-    }
-</style>
-<div class="row">
-    <div id="main-content" class="col s12 m12 l9">
-        <!-- 文章内容详情 -->
+    <!-- 文章内容详情 -->
 <div id="artDetail">
     <div class="card">
         <div class="card-content article-info">
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/局部滚动/" target="_blank">
+                                <span class="chip bg-color">局部滚动</span>
+                            </a>
+                        
+                            <a href="/tags/scroll-area/" target="_blank">
+                                <span class="chip bg-color">scroll-area</span>
+                            </a>
+                        
+                            <a href="/tags/滚动条/" target="_blank">
+                                <span class="chip bg-color">滚动条</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
+                    
+                    <div class="post-cate">
+                        <i class="fa fa-bookmark fa-fw icon-category"></i>
+                        
+                            <a href="/categories/Markdown/" class="post-category" target="_blank">
+                                Markdown
+                            </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -397,7 +327,7 @@
             <div class="post-info">
                 <div class="post-date info-break-policy">
                     <i class="fa fa-calendar-minus-o fa-fw"></i>发布日期:&nbsp;&nbsp;
-                    2019-07-17
+                    2018-09-07
                 </div>
 
                 
@@ -427,47 +357,7 @@
         <hr class="clearfix">
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <!-- Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
-
-## Quick Start 你们
-
-### Create a new post https://github.com/ckt0708/Ckt0708.github.io.git
-
-``` bash
-hexo --save---201908151622 201908161440 201908161450
-```
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html) -->
-
-<h3 id="局部滚动和修改滚动条样式"><a href="#局部滚动和修改滚动条样式" class="headerlink" title="局部滚动和修改滚动条样式"></a>局部滚动和修改滚动条样式</h3><h2 id="部分区域滚动"><a href="#部分区域滚动" class="headerlink" title="部分区域滚动"></a>部分区域滚动</h2><p>代码：</p>
+                <h3 id="局部滚动和修改滚动条样式"><a href="#局部滚动和修改滚动条样式" class="headerlink" title="局部滚动和修改滚动条样式"></a>局部滚动和修改滚动条样式</h3><h2 id="部分区域滚动"><a href="#部分区域滚动" class="headerlink" title="部分区域滚动"></a>部分区域滚动</h2><p>代码：</p>
 <pre class=" language-bash"><code class="language-bash">//滚动条
 <span class="token comment" spellcheck="true">#box{//  不滚动部分</span>
     overflow: hidden<span class="token punctuation">;</span>
@@ -657,9 +547,9 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
                   property="dct:title" rel="dct:type">
                     《局部滚动和修改滚动条样式》
                 </span> 由
-            <a xmlns:cc="http://creativecommons.org/ns#" href="/2019/07/17/hello-world/" property="cc:attributionName"
+            <a xmlns:cc="http://creativecommons.org/ns#" href="/2018/09/07/qian-duan/css-ju-bu-gun-dong-yu-gun-dong-tiao-yan-shi/" property="cc:attributionName"
                rel="cc:attributionURL">
-                龍の蝶
+                赵奇
             </a> 采用
             <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh">
                 知识共享署名 4.0 国际许可协议
@@ -698,7 +588,7 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
         repo: 'Ckt0708.github.io',
         owner: 'ckt',
         admin: "ckt",
-        id: '2019-07-17T10-47-33',
+        id: '2018-09-07T09-25-00',
         distractionFreeMode: false  // Facebook-like distraction free mode
     });
 
@@ -719,48 +609,40 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fa fa-dot-circle-o"></i>&nbsp;本篇
-            </div>
+                <i class="fa fa-chevron-left"></i>&nbsp;上一篇</div>
             <div class="card">
-                <a href="/2019/07/17/hello-world/">
+                <a href="/2018/09/07/hello-world/">
                     <div class="card-image">
                         
+                        <img src="/medias/logo.png" class="responsive-img" alt="hexo">
                         
-                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="局部滚动和修改滚动条样式">
-                        
-                        <span class="card-title">局部滚动和修改滚动条样式</span>
+                        <span class="card-title">hexo</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
-
-局部滚动和修改滚动条样式部分区域滚动代码：
-//滚动条
-#box{//  不滚动部分
-    overflow: hidden;
-    height: 100%;
-}
-.scroll-area{//滚动部分
-    -webkit-o
+                            这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
                         
                     </div>
                     <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-07-17
-                            </span>
+                        <span class="publish-date">
+                            <i class="fa fa-clock-o fa-fw icon-date"></i>2018-09-07
+                        </span>
                         <span class="publish-author">
                             
-                            <i class="fa fa-user fa-fw"></i>
-                            龍の蝶
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/Markdown/" class="post-category" target="_blank">
+                                    Markdown
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
-
                 
             </div>
         </div>
@@ -771,11 +653,10 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
                 本篇&nbsp;<i class="fa fa-dot-circle-o"></i>
             </div>
             <div class="card">
-                <a href="/2019/07/17/hello-world/">
+                <a href="/2018/09/07/qian-duan/css-ju-bu-gun-dong-yu-gun-dong-tiao-yan-shi/">
                     <div class="card-image">
                         
-                        
-                        <img src="/medias/featureimages/21.jpg" class="responsive-img" alt="局部滚动和修改滚动条样式">
+                        <img src="/medias/logo.png" class="responsive-img" alt="局部滚动和修改滚动条样式">
                         
                         <span class="card-title">局部滚动和修改滚动条样式</span>
                     </div>
@@ -783,31 +664,42 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
                 <div class="card-content article-content">
                     <div class="summary block-with-text">
                         
-                            
-
-局部滚动和修改滚动条样式部分区域滚动代码：
-//滚动条
-#box{//  不滚动部分
-    overflow: hidden;
-    height: 100%;
-}
-.scroll-area{//滚动部分
-    -webkit-o
+                            这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
                         
                     </div>
                     <div class="publish-info">
                             <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-07-17
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2018-09-07
                             </span>
                         <span class="publish-author">
                             
-                            <i class="fa fa-user fa-fw"></i>
-                            龍の蝶
+                            <i class="fa fa-bookmark fa-fw icon-category"></i>
+                            
+                            <a href="/categories/Markdown/" class="post-category" target="_blank">
+                                    Markdown
+                                </a>
+                            
                             
                         </span>
                     </div>
                 </div>
 
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/局部滚动/" target="_blank">
+                        <span class="chip bg-color">局部滚动</span>
+                    </a>
+                    
+                    <a href="/tags/scroll-area/" target="_blank">
+                        <span class="chip bg-color">scroll-area</span>
+                    </a>
+                    
+                    <a href="/tags/滚动条/" target="_blank">
+                        <span class="chip bg-color">滚动条</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
@@ -818,99 +710,6 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
 
 
 
-    </div>
-    <div id="toc-aside" class="expanded col l3 hide-on-med-and-down">
-        <div class="toc-widget">
-            <div class="toc-title"><i class="fa fa-list-alt"></i>&nbsp;&nbsp;目录</div>
-            <div id="toc-content"></div>
-        </div>
-    </div>
-</div>
-
-<!-- TOC 悬浮按钮. -->
-
-<div id="floating-toc-btn" class="hide-on-med-and-down">
-    <a class="btn-floating btn-large bg-color">
-        <i class="fa fa-list"></i>
-    </a>
-</div>
-
-
-<script src="/libs/tocbot/tocbot.min.js"></script>
-<script>
-    $(function () {
-        tocbot.init({
-            tocSelector: '#toc-content',
-            contentSelector: '#articleContent',
-            headingsOffset: -($(window).height() * 0.4 - 45),
-            // headingsOffset: -205,
-            headingSelector: 'h2, h3, h4'
-        });
-
-        // modify the toc link href to support Chinese.
-        let i = 0;
-        let tocHeading = 'toc-heading-';
-        $('#toc-content a').each(function () {
-            $(this).attr('href', '#' + tocHeading + (++i));
-        });
-
-        // modify the heading title id to support Chinese.
-        i = 0;
-        $('#articleContent').children('h2, h3, h4').each(function () {
-            $(this).attr('id', tocHeading + (++i));
-        });
-
-        // Set scroll toc fixed.
-        let tocHeight = parseInt($(window).height() * 0.4 - 64);
-        let $tocWidget = $('.toc-widget');
-        $(window).scroll(function () {
-            let scroll = $(window).scrollTop();
-            /* add post toc fixed. */
-            if (scroll > tocHeight) {
-                $tocWidget.addClass('toc-fixed');
-            } else {
-                $tocWidget.removeClass('toc-fixed');
-            }
-        });
-
-        
-        /* 修复文章卡片 div 的宽度. */
-        let fixPostCardWidth = function (srcId, targetId) {
-            let srcDiv = $('#' + srcId);
-            if (srcDiv.length === 0) {
-                return;
-            }
-
-            let w = srcDiv.width();
-            if (w >= 450) {
-                w = w + 21;
-            } else if (w >= 350 && w < 450) {
-                w = w + 18;
-            } else if (w >= 300 && w < 350) {
-                w = w + 16;
-            } else {
-                w = w + 14;
-            }
-            $('#' + targetId).width(w);
-        };
-
-        // 切换TOC目录展开收缩的相关操作.
-        const expandedClass = 'expanded';
-        let $tocAside = $('#toc-aside');
-        let $mainContent = $('#main-content');
-        $('#floating-toc-btn .btn-floating').click(function () {
-            if ($tocAside.hasClass(expandedClass)) {
-                $tocAside.removeClass(expandedClass).slideUp(500);
-                $mainContent.removeClass('l9');
-            } else {
-                $tocAside.addClass(expandedClass).slideDown(500);
-                $mainContent.addClass('l9');
-            }
-            fixPostCardWidth('artDetail', 'prenext-posts');
-        });
-        
-    });
-</script>
     
 
 </main>
@@ -925,7 +724,7 @@ More info: [Deployment](https://hexo.io/docs/deployment.html) -->
 
             
                 &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-                <span class="white-color">163</span>
+                <span class="white-color">251</span>
             
 
             
