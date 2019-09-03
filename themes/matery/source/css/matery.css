@@ -165,7 +165,8 @@ mark {
 .bg-color {
     /* background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
     /* background-image: linear-gradient(to right, #e89193 0%, #f7e0f1 100%); */
-    background-image: linear-gradient(to right, #08e8f3 0%, #5684ea 100%);
+    /* background-image: linear-gradient(to right, #08e8f3 0%, #5684ea 100%); */
+    background-image: linear-gradient(to right, #e26942 0%, #FFEB3B 100%);
 }
 
 .text-color {

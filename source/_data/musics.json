@@ -1,18 +1,20 @@
 [
     {
-        "name": "五月雨变奏电音",
-        "artist": "AnimeVibe",
-        "url": "http://xxx.com/music1.mp3",
-        "cover": "http://xxx.com/music-cover1.png"
-    }, {
-        "name": "Take me hand",
-        "artist": "DAISHI DANCE,Cecile Corbel",
-        "url": "/medias/music/music2.mp3",
-        "cover": "/medias/music/cover2.png"
-    }, {
-        "name": "Shape of You",
-        "artist": "J.Fla",
-        "url": "http://xxx.com/music3.mp3",
-        "cover": "http://xxx.com/music-cover3.png"
+        "name": "SING女团 - 寄明月",
+        "artist": "SING女团",
+        "url": "/medias/music/SING女团 - 寄明月.mp3",
+        "cover": "/medias/music/cover/SING女团 - 寄明月.jpg"
+    }, 
+    {
+        "name": "冯提莫 - 听你说 - 冯提莫＆周二珂",
+        "artist": "冯提莫＆周二珂",
+        "url": "/medias/music/2.mp3",
+        "cover": "/medias/music/cover/2.jpg"
+    }, 
+    {
+        "name": "想你(吴亦凡／赵丽颖)",
+        "artist": "吴亦凡／赵丽颖",
+        "url": "/medias/music/想你(吴亦凡／赵丽颖).mp3",
+        "cover": "/medias/music/cover/想你(吴亦凡／赵丽颖).jpg"
     }
 ]

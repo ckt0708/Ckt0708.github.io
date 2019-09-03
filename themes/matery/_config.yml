@@ -56,7 +56,7 @@ music:
 # Whether to display the videos.
 # 是否在首页显示视频.
 video:
-  enable: true
+  enable: false
   showTitle: true
   title: 扩展视野
   url: https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4 # 必填
@@ -220,14 +220,15 @@ postCalendar: true
 
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
+# https://github.com/settings/developers 设置页面
 gitalk:
-  enable: false
-  owner:
-  repo:
+  enable: true
+  owner: ckt #github用户名
+  repo: Ckt0708.github.io #github仓库名
   oauth:
-    clientId:
-    clientSecret:
-  admin:
+    clientId: d1bbd3a3118278c71b41
+    clientSecret: 5b082e05634b776c66587f7bacc27dd9c01dfaba
+  admin: ckt #github用户名
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活

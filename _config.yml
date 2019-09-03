@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://ckt0708.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -116,5 +116,4 @@ theme: matery
 deploy: 
   type: git
   repository: https://github.com/ckt0708/Ckt0708.github.io.git
-  # repository: https://github.com/ckt0708/CktBlog.git
   branch: master
