@@ -1,27 +1,28 @@
 ---
-title: hexo
-date: 2018-09-07 09:25:00
-author: 赵奇
-img: /medias/logo.png
+title: Hello World ! Hexo
+date: 2018-07-17 09:25:00
+author: 龍の蝶
+img: /medias/banner/6.jpg
 top: true
 cover: true
-coverImg: /medias/featureimages/0.jpg
-password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
-toc: false
+coverImg: /medias/banner/6.jpg
+password: 
+toc: true
 mathjax: false
-summary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
-categories: Markdown
+summary: Hello World !!! Hexo （搭建个人独立博客）
+categories: Hexo
 tags:
+    - Hexo
+    - 搭建个人独立博客
+    - Hexo Blog
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start 你们
+## Quick Start
 
-### Create a new post https://github.com/ckt0708/Ckt0708.github.io.git
+## 免费搭建个人独立博客 主要运用Github Pages + Hexo + Node
 
-``` bash
-hexo --save---201908151622 201908161440 201908161450
-```
+### Create a new post
 
 ``` bash
 $ hexo new "My New Post"
@@ -53,4 +54,6 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
 
+### 教程
 
+具体教程：请看这篇[文章](https://hexo.io/docs/deployment.html)

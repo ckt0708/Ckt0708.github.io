@@ -8,13 +8,31 @@
     {
         "name": "冯提莫 - 听你说 - 冯提莫＆周二珂",
         "artist": "冯提莫＆周二珂",
-        "url": "/medias/music/2.mp3",
-        "cover": "/medias/music/cover/2.jpg"
+        "url": "/medias/music/听你说-冯提莫＆周二珂.mp3",
+        "cover": "/medias/music/cover/听你说-冯提莫＆周二珂.jpg"
     }, 
     {
         "name": "想你(吴亦凡／赵丽颖)",
         "artist": "吴亦凡／赵丽颖",
         "url": "/medias/music/想你(吴亦凡／赵丽颖).mp3",
         "cover": "/medias/music/cover/想你(吴亦凡／赵丽颖).jpg"
+    },
+    {
+        "name": "男人哭吧不是罪-刘德华",
+        "artist": "刘德华",
+        "url": "/medias/music/男人哭吧不是罪-刘德华.mp3",
+        "cover": "/medias/music/cover/男人哭吧不是罪.jpg"
+    },
+    {
+        "name": "笨小孩-刘德华",
+        "artist": "刘德华",
+        "url": "/medias/music/笨小孩-刘德华.mp3",
+        "cover": "/medias/music/cover/笨小孩.jpg"
+    },
+    {
+        "name": "七友-梁汉文",
+        "artist": "梁汉文",
+        "url": "/medias/music/七友-梁汉文.mp3",
+        "cover": "/medias/music/cover/七友-梁汉文.jpg"
     }
 ]

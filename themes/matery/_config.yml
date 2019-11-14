@@ -16,9 +16,9 @@ menu:
   About:
     url: /about
     icon: fa-user-circle-o
-  Friends:
-    url: /friends
-    icon: fa-address-book
+  # Friends:
+  #   url: /friends
+  #   icon: fa-address-book
 
 # Index cover carousel configuration.
 # 首页封面轮播图的相关配置.
@@ -34,8 +34,8 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  title: Dream
+  text: 天才就是百分之九十九的汗水加百分之一的灵感。——爱迪生
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -45,13 +45,13 @@ music:
   title: 洗涤心灵
   fixed: false # 开启吸底模式
   autoplay: false # 是否自动播放
-  theme: '#42b983'
+  theme: '#f3271c'
   loop: 'all' # 音频循环播放, 可选值: 'all', 'one', 'none'
   order: 'list' # 音频循环顺序, 可选值: 'list', 'random'
   preload: 'auto' # 预加载，可选值: 'none', 'metadata', 'auto'
   volume: 0.7 # 默认音量，请注意播放器会记忆用户设置，用户手动设置音量后默认音量即失效
   listFolded: false # 列表默认折叠
-  listMaxHeight: #列表最大高度
+  listMaxHeight: "165px" #列表最大高度
 
 # Whether to display the videos.
 # 是否在首页显示视频.
@@ -154,14 +154,14 @@ clicklove:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/logo.png
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  career: Web Front-end developer
+  introduction: 简单的脸，简单的人，简单的你，简简单单的生活。
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: true
+  enable: false
   data:
     hexo-theme-matery:
       icon: fa-meetup
@@ -185,24 +185,27 @@ myProjects:
 mySkills:
   enable: true
   data:
-    Java:
-      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 85%
+    HTML5:
+      background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
+      percent: 90%
     JavaScript:
       background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
       percent: 80%
-    HTML5:
-      background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
-      percent: 80%
     CSS:
       background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 70%
-    SQL:
-      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
       percent: 90%
-    程序设计:
+    WX小程序:
+      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
+      percent: 80%
+    VUE:
       background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
       percent: 75%
+    REACT:
+      background: 'linear-gradient(to right, #ea3bff 0%, #b11dcc 100%)'
+      percent: 65%
+    Flutter:
+      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
+      percent: 45%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
@@ -210,9 +213,9 @@ mySkills:
 myGallery:
   enable: true
   data:
-    - /medias/featureimages/0.jpg
-    - /medias/featureimages/1.jpg
-    - /medias/featureimages/2.jpg
+    - /medias/banner/2.jpg
+    - /medias/banner/5.jpg
+    - /medias/banner/7.png
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
